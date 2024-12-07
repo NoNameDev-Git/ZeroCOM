@@ -1,5 +1,5 @@
 ### YouTube Video on how to install components
-[![video](https://imgur.com/a/tbmcZh1)](https://youtu.be/QXlYrOwxMv8?si=jMVDY-h5BJrpjfXG)
+[![video](https://imgur.com/a/tbmcZh1.jpeg)](https://youtu.be/QXlYrOwxMv8?si=jMVDY-h5BJrpjfXG)
 
 # ZeroCOM Components Rad Studio
 ZeroCOM is a collection of components for the Rad Studio XE7 development environment, designed to simplify writing code in your projects.
@@ -61,6 +61,7 @@ Please read through the project first to get an idea of how the program is struc
 ### Donation
 ##### Buy me a coffee!
 BTC: bc1q03026zqjka7ptwu0adfnt0y9y9krmwx8tkpx5k
+
 USDT(TRC20): TDbfAFj4MX1w9J5fmF3P1wCpweobm4d4Nx
 
 ### LEGAL DISCLAIMER PLEASE READ!
