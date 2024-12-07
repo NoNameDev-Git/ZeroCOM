@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.758,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,=vclx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.755,=vclactnband.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,=C:\Users\Home\Desktop\ZEROCOM\BSSIDLocation.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

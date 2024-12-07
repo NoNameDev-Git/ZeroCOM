@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.734,=C:\Users\Home\Desktop\ZEROCOM\GetLibModHandleTelegram.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.841,=vclx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=vclactnband.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.833,=C:\Users\Home\Desktop\ZEROCOM\Telegram.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,=C:\Users\Home\Desktop\ZEROCOM\CodeUnitTelegram.pas</Transaction>
+  </Transactions>
+</BorlandProject>

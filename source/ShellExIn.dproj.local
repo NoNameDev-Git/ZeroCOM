@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.433,=C:\Users\Home\Desktop\ZEROCOM\ShellExIn.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.443,=vclx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=vclactnband.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

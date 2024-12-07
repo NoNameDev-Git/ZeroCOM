@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.608,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=vclx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=C:\Users\Home\Desktop\ZEROCOM\GetLibModHandlePassView.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,=C:\Users\Home\Desktop\ZEROCOM\STPassView.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,=C:\Users\Home\Desktop\ZEROCOM\PassView.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,=C:\Users\Home\Desktop\ZEROCOM\CodeUnitPassView.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,=vclactnband.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

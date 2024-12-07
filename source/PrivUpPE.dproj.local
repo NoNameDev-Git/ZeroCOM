@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="CodeUnitPE.pas"/>
+    <File Path="PrivUpPE.pas"/>
+    <File Path="GetLibModHandlePE.pas"/>
+    <File Path="designide.dcp"/>
+    <File Path="rtl.dcp"/>
+    <File Path="vcl.dcp"/>
+    <File Path="vclactnband.dcp"/>
+    <File Path="vclx.dcp"/>
+    <File Path="xmlrtl.dcp"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\Users\Home\Desktop\COMPONENTS_WEX\GetLibModHandle.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,=C:\Users\Home\Desktop\COMPONENTS_WEX\GetLibModHandlePE.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\Home\Desktop\ZEROCOM\PrivUpPE.dproj=C:\Users\Home\Desktop\ZEROCOM\PrivUpPE.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,C:\Users\Home\Desktop\COMPONENTS_WEX\CodeUnitPE.pas=C:\Users\Home\Desktop\COMPONENTS_WEX\ConstUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>

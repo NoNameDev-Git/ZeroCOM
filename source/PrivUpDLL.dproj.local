@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.137,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=vclactnband.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,=vclx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,=C:\Users\Home\Desktop\COMPONENTS_WEX\CodeUnitDLL.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.883,=C:\Users\Home\Desktop\COMPONENTS_WEX\GetLibModHandle.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.355,=C:\Users\Home\Desktop\COMPONENTS_WEX\CodeUnitPE.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,C:\Users\Home\Desktop\COMPONENTS_WEX\CodeUnitPE.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\Home\Desktop\COMPONENTS_WEX\GetLibModHandle.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=C:\Users\Home\Desktop\COMPONENTS_WEX\PrivUpDLL.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,=C:\Users\Home\Desktop\COMPONENTS_WEX\GetLibModHandleDLL.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="CodeUnitDLL.pas"/>
+    <File Path="GetLibModHandleDLL.pas"/>
+    <File Path="PrivUpDLL.pas"/>
+    <File Path="designide.dcp"/>
+    <File Path="rtl.dcp"/>
+    <File Path="vcl.dcp"/>
+    <File Path="vclactnband.dcp"/>
+    <File Path="vclx.dcp"/>
+    <File Path="xmlrtl.dcp"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\Home\Desktop\ZEROCOM\WebCam.dproj=C:\Users\Home\Desktop\ZEROCOM\WebCam.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=vclx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.138,=C:\Users\Home\Desktop\ZEROCOM\WebCam.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,=vclactnband.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,216 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{1252520B-5955-4558-8223-B6FE5D7A0D5B}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="PrivUpDLL.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="PrivUpPE.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="WebCam.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="SSH.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="PassView.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Keylogger.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ShellExIn.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="InjectDLL.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="PowershellBase64Encode.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="EncodeDecodeXEBI.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="EncodeDecodeDES.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="EncodeDecodeXOR.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="EncodeDecodeSymmetric.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="EncodeDecodeBase64.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="BSSIDLocation.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Telegram.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="PrivUpDLL">
+        <MSBuild Projects="PrivUpDLL.dproj"/>
+    </Target>
+    <Target Name="PrivUpDLL:Clean">
+        <MSBuild Projects="PrivUpDLL.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PrivUpDLL:Make">
+        <MSBuild Projects="PrivUpDLL.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PrivUpPE">
+        <MSBuild Projects="PrivUpPE.dproj"/>
+    </Target>
+    <Target Name="PrivUpPE:Clean">
+        <MSBuild Projects="PrivUpPE.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PrivUpPE:Make">
+        <MSBuild Projects="PrivUpPE.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="WebCam">
+        <MSBuild Projects="WebCam.dproj"/>
+    </Target>
+    <Target Name="WebCam:Clean">
+        <MSBuild Projects="WebCam.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="WebCam:Make">
+        <MSBuild Projects="WebCam.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SSH">
+        <MSBuild Projects="SSH.dproj"/>
+    </Target>
+    <Target Name="SSH:Clean">
+        <MSBuild Projects="SSH.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SSH:Make">
+        <MSBuild Projects="SSH.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PassView">
+        <MSBuild Projects="PassView.dproj"/>
+    </Target>
+    <Target Name="PassView:Clean">
+        <MSBuild Projects="PassView.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PassView:Make">
+        <MSBuild Projects="PassView.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Keylogger">
+        <MSBuild Projects="Keylogger.dproj"/>
+    </Target>
+    <Target Name="Keylogger:Clean">
+        <MSBuild Projects="Keylogger.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Keylogger:Make">
+        <MSBuild Projects="Keylogger.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ShellExIn">
+        <MSBuild Projects="ShellExIn.dproj"/>
+    </Target>
+    <Target Name="ShellExIn:Clean">
+        <MSBuild Projects="ShellExIn.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ShellExIn:Make">
+        <MSBuild Projects="ShellExIn.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="InjectDLL">
+        <MSBuild Projects="InjectDLL.dproj"/>
+    </Target>
+    <Target Name="InjectDLL:Clean">
+        <MSBuild Projects="InjectDLL.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="InjectDLL:Make">
+        <MSBuild Projects="InjectDLL.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PowershellBase64Encode">
+        <MSBuild Projects="PowershellBase64Encode.dproj"/>
+    </Target>
+    <Target Name="PowershellBase64Encode:Clean">
+        <MSBuild Projects="PowershellBase64Encode.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PowershellBase64Encode:Make">
+        <MSBuild Projects="PowershellBase64Encode.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="EncodeDecodeXEBI">
+        <MSBuild Projects="EncodeDecodeXEBI.dproj"/>
+    </Target>
+    <Target Name="EncodeDecodeXEBI:Clean">
+        <MSBuild Projects="EncodeDecodeXEBI.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EncodeDecodeXEBI:Make">
+        <MSBuild Projects="EncodeDecodeXEBI.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="EncodeDecodeDES">
+        <MSBuild Projects="EncodeDecodeDES.dproj"/>
+    </Target>
+    <Target Name="EncodeDecodeDES:Clean">
+        <MSBuild Projects="EncodeDecodeDES.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EncodeDecodeDES:Make">
+        <MSBuild Projects="EncodeDecodeDES.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="EncodeDecodeXOR">
+        <MSBuild Projects="EncodeDecodeXOR.dproj"/>
+    </Target>
+    <Target Name="EncodeDecodeXOR:Clean">
+        <MSBuild Projects="EncodeDecodeXOR.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EncodeDecodeXOR:Make">
+        <MSBuild Projects="EncodeDecodeXOR.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="EncodeDecodeSymmetric">
+        <MSBuild Projects="EncodeDecodeSymmetric.dproj"/>
+    </Target>
+    <Target Name="EncodeDecodeSymmetric:Clean">
+        <MSBuild Projects="EncodeDecodeSymmetric.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EncodeDecodeSymmetric:Make">
+        <MSBuild Projects="EncodeDecodeSymmetric.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="EncodeDecodeBase64">
+        <MSBuild Projects="EncodeDecodeBase64.dproj"/>
+    </Target>
+    <Target Name="EncodeDecodeBase64:Clean">
+        <MSBuild Projects="EncodeDecodeBase64.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EncodeDecodeBase64:Make">
+        <MSBuild Projects="EncodeDecodeBase64.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="BSSIDLocation">
+        <MSBuild Projects="BSSIDLocation.dproj"/>
+    </Target>
+    <Target Name="BSSIDLocation:Clean">
+        <MSBuild Projects="BSSIDLocation.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="BSSIDLocation:Make">
+        <MSBuild Projects="BSSIDLocation.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Telegram">
+        <MSBuild Projects="Telegram.dproj"/>
+    </Target>
+    <Target Name="Telegram:Clean">
+        <MSBuild Projects="Telegram.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Telegram:Make">
+        <MSBuild Projects="Telegram.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="PrivUpDLL;PrivUpPE;WebCam;SSH;PassView;Keylogger;ShellExIn;InjectDLL;PowershellBase64Encode;EncodeDecodeXEBI;EncodeDecodeDES;EncodeDecodeXOR;EncodeDecodeSymmetric;EncodeDecodeBase64;BSSIDLocation;Telegram"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="PrivUpDLL:Clean;PrivUpPE:Clean;WebCam:Clean;SSH:Clean;PassView:Clean;Keylogger:Clean;ShellExIn:Clean;InjectDLL:Clean;PowershellBase64Encode:Clean;EncodeDecodeXEBI:Clean;EncodeDecodeDES:Clean;EncodeDecodeXOR:Clean;EncodeDecodeSymmetric:Clean;EncodeDecodeBase64:Clean;BSSIDLocation:Clean;Telegram:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="PrivUpDLL:Make;PrivUpPE:Make;WebCam:Make;SSH:Make;PassView:Make;Keylogger:Make;ShellExIn:Make;InjectDLL:Make;PowershellBase64Encode:Make;EncodeDecodeXEBI:Make;EncodeDecodeDES:Make;EncodeDecodeXOR:Make;EncodeDecodeSymmetric:Make;EncodeDecodeBase64:Make;BSSIDLocation:Make;Telegram:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

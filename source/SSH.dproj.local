@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.453,=xmlrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.444,=vclactnband.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=vcl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.432,=C:\Users\Home\Desktop\ZEROCOM\SSH.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,=C:\Users\Home\Desktop\ZEROCOM\CodeUnitSSH.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,=vclx.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,C:\Users\Home\Desktop\ZEROCOM\CodeUnitPE.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,C:\Users\Home\Desktop\ZEROCOM\PrivUpPE.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.714,=C:\Users\Home\Desktop\ZEROCOM\GetLibModHandlePE.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,C:\Users\Home\Desktop\ZEROCOM\GetLibModHandlePE.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\Home\Desktop\ZEROCOM\PrivUpPE.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,=C:\Users\Home\Desktop\ZEROCOM\CodeUnitPE.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,=C:\Users\Home\Desktop\ZEROCOM\GetLibModHandleSSH.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,=rtl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
