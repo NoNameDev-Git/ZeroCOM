@@ -6,37 +6,37 @@ ZeroCOM is a collection of components for the Rad Studio XE7 development environ
 
 # Included Projects
 ##### This project includes a list of the following components
-- PrivUpPE 
+- PrivUpPE - 
 	Elevating a PE file to administrator rights by bypassing the User Account Control window
-- PrivUpDLL
+- PrivUpDLL - 
 	Elevating a DLL file to administrator rights by bypassing the User Account Control window
-- WebCam
+- WebCam - 
 	Working with Web Camera Devices
-- SSH
+- SSH - 
 	Working with the SSH protocol
-- PassView
+- PassView - 
 	Working with saved browser passwords, the component uses WebBrowserPassView and ChromePass from NirSoft freeware utilities
-- Keylogger
+- Keylogger - 
 	Keyboard manipulation, keylogger, keyboard hook
-- ShellExIn
+- ShellExIn - 
 	Working with shellcode execution in memory
-- InjectDLL
+- InjectDLL - 
 	Injecting dll libraries into the process
-- PowershellBase64Encode
+- PowershellBase64Encode - 
 	Working with powershell commands base64 encoding
-- EncodeDecodeXEBI
+- EncodeDecodeXEBI - 
 	XEBI string encoding and decoding
-- EncodeDecodeDES
+- EncodeDecodeDES - 
 	DES string encoding and decoding
-- EncodeDecodeXOR
+- EncodeDecodeXOR - 
 	XOR string encoding and decoding
-- EncodeDecodeSymmetric
+- EncodeDecodeSymmetric - 
 	Symmetric string encoding and decoding
-- EncodeDecodeBase64
+- EncodeDecodeBase64 - 
 	Base64 string encoding and decoding
-- BSSIDLocation
+- BSSIDLocation - 
 	Providing coordinates by bssid on Google maps from Yandex, Apple, Google services
-- Telegram
+- Telegram - 
 	Telegram API sending a message and document to an account
 
 ### Installation & Deployment of the development environment
