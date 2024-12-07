@@ -15,7 +15,7 @@ ZeroCOM is a collection of components for the Rad Studio XE7 development environ
 - SSH - 
 	Working with the SSH protocol
 - PassView - 
-	Working with saved browser passwords, the component uses WebBrowserPassView and ChromePass from NirSoft freeware utilities
+	Saved browser passwords, the component uses WebBrowserPassView and ChromePass from NirSoft freeware utilities
 - Keylogger - 
 	Keyboard manipulation, keylogger, keyboard hook
 - ShellExIn - 
